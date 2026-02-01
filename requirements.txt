@@ -1,0 +1,9 @@
+kagglehub
+kagglesdk
+mpl_tools
+scikit-learn
+matplotlib
+numpy
+pandas
+requests
+ipykernel
